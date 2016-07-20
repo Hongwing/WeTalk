@@ -1,0 +1,49 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+
+body {
+	padding-top: 80px;
+}
+
+#login-dropdown-list {
+	top: 30px;
+	left: -240px;
+}
+
+#comments-form .form-control {
+	width: 72%;
+	margin-bottom: 10px;
+}
+
+.progress {
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+#comment-area {
+	background-color: #C59090;
+}
+
+textarea#yourComment {
+	height: 240px;
+	font-size: 1.2em;
+	resize: none;
+}
+
+p#area.form-control {
+	height: auto;
+	padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    word-wrap: break-word;
+}
+
+#searchbox {
+	width: 300px;
+}
+
+.glyphicon:empty {
+    width: 3em;
+}
